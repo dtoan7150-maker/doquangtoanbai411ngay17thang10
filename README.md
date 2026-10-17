@@ -14,22 +14,22 @@
 
 ### 1. Giao diện chính
 
-![Giao diện chính](./screenshots/main_ui.png)
+![Giao diện chính](/main_ui.png)
 
 ### 2. Kiểm tra lỗi ErrorProvider
 
-![Kiểm tra lỗi](./screenshots/validation_error.png)
+![Kiểm tra lỗi](/validation_error.png)
 
 ### 3. Thêm lịch hẹn thành công
 
-![Thêm lịch hẹn thành công](./screenshots/add_appointment.png)
+![Thêm lịch hẹn thành công](/add_appointment.png)
 
 ### 4. Tìm kiếm và lọc lịch hẹn
 
-![Tìm kiếm và lọc](./screenshots/search_filter.png)
+![Tìm kiếm và lọc](/search_filter.png)
 
 ### 5. Cập nhật và xóa lịch hẹn
 
-![Cập nhật và xóa](./screenshots/update_delete.png)
+![Cập nhật và xóa](/update_delete.png)
 
 
